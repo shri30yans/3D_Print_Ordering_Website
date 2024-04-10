@@ -1,0 +1,21 @@
+nav {
+    display:flex;
+    border-bottom: 2px solid #f3f3f3;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    z-index: 999;
+    margin-left: 2rem;
+}
+
+input {
+    padding: 10px 20px;
+    border: none;
+    background: #d0d0d0;
+    outline: none;
+    margin-right: 20px;
+    border-radius: 20px;
+    position: relative;
+    width: 10rem;
+  }
+

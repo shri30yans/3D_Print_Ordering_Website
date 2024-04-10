@@ -1,0 +1,29 @@
+header {
+    display:flex;
+    border-bottom: 2px solid #f3f3f3;
+    align-items: center;
+    padding: 2px;
+    z-index: 999;
+    margin-left: 2rem;
+}
+
+.header-icons {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 1rem;
+    color: #000;
+}
+
+.profile-container{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
+
+.logo-container {
+    margin-bottom: 2rem;
+  }
+  
+.logo-container h1 {
+    margin-top: 1.3rem;
+  }
