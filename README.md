@@ -15,10 +15,15 @@ git clone https://github.com/jshivi19/3d-printed-ordering-website.git
 - Navigate to the project directory:
 cd 3d-printed-keychain-website
 - Install dependencies:
+  ```
   npm install  # or yarn install
+  ```
 -This will install all the necessary libraries and packages your project requires to function.
 ## Running the Development Server
-- Start the development server:npm start  # or yarn start
+- Start the development server:
+  ```
+  npm start  # or yarn start
+  ```
 - Open your web browser:
 
 Navigate to http://localhost:3000 (or the port specified in your package.json) to view the website running in development mode.
