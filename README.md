@@ -1,12 +1,11 @@
 # 3D Print Ordering Webisite
 This project is a React-based e-commerce website for selling unique and customizable 3D printed products. It features a user-friendly functions with the following functionalities:
 
-- Search Bar: Customers can easily find specific keychains using keywords or filters (if implemented).
-- Product Pages: Each keychain has its own dedicated page showcasing detailed descriptions, high-quality images, and customization options (if applicable).
+- Search Bar: Customers can easily find specific keychains using keywords or filters.
+- Product Pages: Each keychain has its own dedicated page showcasing detailed descriptions, high-quality images, and customization options.
 - Single-Item Orders: To keep the checkout process streamlined, users can only add one keychain to their cart at a time.
 ## Project Setup
 - Prerequisites:
-
 Node.js and npm (or yarn) installed on your system. You can download them from https://nodejs.org/en.
 ## Steps:
 
